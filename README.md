@@ -1,6 +1,7 @@
-![koala](https://github.com/user-attachments/assets/f75e7697-76ce-4886-9118-86d078378c66)
+![4471](https://github.com/user-attachments/assets/a34be565-f764-483d-9e13-b4421e45f13c)
 
 
+## Other
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=rs-k)
 
 <!--
