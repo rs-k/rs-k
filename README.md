@@ -1,4 +1,5 @@
-## Other
+![koala](https://github.com/user-attachments/assets/f75e7697-76ce-4886-9118-86d078378c66)
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=rs-k)
 
