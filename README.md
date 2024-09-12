@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="4471.gif">
+    <img src="koala.gif">
 </div>
